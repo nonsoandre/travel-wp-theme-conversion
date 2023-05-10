@@ -1,0 +1,8 @@
+/* These are repair styles or appended styles by me */
+.owl-stage {
+    display: flex !important;
+}
+
+.owl-carousel.testimonial-carousel.position-relative.owl-loaded.owl-drag {
+    overflow: hidden !important;
+}
