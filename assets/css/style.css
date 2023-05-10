@@ -10,13 +10,13 @@ body{
     background: green;
 }
 
-.owl-stage {
+/* .owl-stage {
     display: flex !important;
 }
 
 .owl-carousel.testimonial-carousel.position-relative.owl-loaded.owl-drag {
     overflow: hidden;
-}
+} */
 
 .fw-medium {
     font-weight: 600 !important;

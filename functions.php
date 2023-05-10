@@ -1,6 +1,8 @@
 <?php
 
 function wp_learner_files() {
+    wp_enqueue_style( "wp-learner_custom_style", get_template_directory_uri()."/assets/css/custom.css");
+
     wp_enqueue_style( "wp-learner_main_style", get_template_directory_uri()."/assets/css/style.css");
 
     wp_enqueue_style("wp_learner_bootstrap_styles", get_template_directory_uri(). "/assets/css/bootstrap.min.css");
